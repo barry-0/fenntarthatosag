@@ -1,4 +1,4 @@
-#Fenntarthatóság
+# Fenntarthatóság
 Projekt feladat a fenntarthatóság jegyében GitHub használatával.
 Elvárás:
 
