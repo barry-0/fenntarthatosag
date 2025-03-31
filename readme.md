@@ -10,6 +10,6 @@ Menü: Külső- és belső-linkre(könyvjelzőre) mutasson. A külső hivatkotá
 
 képek esetében:
 
- ha az egér a kép fölött van, magyarázó szöveg jelenjen meg, 
+ha az egér a kép fölött van, magyarázó szöveg jelenjen meg, 
 ha a kép valami miatt nem jelenik meg, a kép helyén jelenjen meg magyarázó szöveg
 Láblácben szerepeljena készítők neve és időpontja.
