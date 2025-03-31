@@ -1,0 +1,30 @@
+A fenntartható fejlődés
+
+Fogalma
+
+Olyan fejlődési folyamat, ill. szervezési elv, ami „kielégíti a jelen szükségleteit anélkül, hogy csökkentené a jövendő generációk képességét, hogy kielégítsék a saját szükségleteiket”, ahogy az az Egyesült Nemzetek Szervezetének 1987-es Brundtland-jelentésében szerepelt. A fenntartható fejlődésnek fenn kell tartani a természetes rendszerek, források összességének azon képességeit, amelyeken a természet és a társadalom alapszik. A másik tényező, amit le kellene küzdenie, a környezet elhasználódása, de ezt úgy kell elérnie, hogy közben ne mondjon le sem a gazdasági fejlődés, sem a társadalmi egyenlőség és igazságosság igényeiről.
+
+A fogalom a nyolcvanas évek elején jelent meg nemzetközi szinten, a szociális valamint a környezeti problémák felismerését, ezen problémák összefüggését a gazdasági fejlődéssel jelenti. Ezen problémákat nem lehet külön vizsgálni, hanem csak sajátos módon együttesen megközelítve. A téma általános ismertséget Lester R. Brown 1981-ben megjelent „Building a Sustainable Society” című műve váltotta ki.
+
+A fenntarthatóság elvi alapja
+
+Életrendünk akkor fenntartható, ha anyagforgalma körkörös, azaz illeszkedik a természet rendjébe. A fizika egy alapvető állítása szerint folyamatok körfolyamatokká alakíthatóak, ha kívülről elég energiát viszünk be a rendszerbe. Körfolyamattá alakítás során a bevitt energia részben hulladékhővé alakul. Ezért bármilyen gyártási eljárás és az azt követő felhasználás energia szempontjából körfolyamattá zárható, amennyiben van elég energia, és a hulladékhőt le tudjuk adni.
+
+Erőforrások
+
+Világunk jelenleg jóval több erőforrást használ, mint amennyit a fenntarthatóság (természetes újratermelődés) megengedne. Ebből következően a jelenlegi gazdasági rendszer csak jelentős többlet-erőforrásokkal (mesterséges eszközökkel) képes működni. Ha ezek az erőforrások kimerülnek, a gazdaság komoly veszélybe kerülhet. Mivel az erőforrás-felhasználás 87%-át fosszilis energiahordozók képviselik, ezek fogyása rejti a legnagyobb kockázatot. A legújabb bizonyítékok alapján a könnyen kitermelhető fosszilis energiahordozókat már kitermeltük. Ezek közül is a legnyilvánvalóbb a kőolaj fogyása. E kérdésben nem is annyira az adott erőforrás, pl. kőolajmező nagysága a mérvadó, hanem sokkal inkább az, hogy meddig érdemes kitermelni az adott mezőt, ezt méri az EROEI mérőszám, tehát pl. azt, hogy egy hordó kőolaj felhasználásával hány hordó kőolaj nyerhető ki. Az adott erőforrások csökkenésére sokak szerint a technológiai fejlődés jelenthet megoldást, ám a növekedés fenntartása zárt rendszerben, mint amilyen a Föld is mindenképpen problémákat okozhat. Ugyanakkor a fosszilis energiaforrások jelentik a legnagyobb környezeti kárt, a CO2 fejlesztés miatt.
+
+Önfenntartó rendszerek
+Élővilág
+Piac
+Társadalom
+
+A fenntartható fejlődést szolgáló főbb termékek, fogalmak
+megújuló energiaforrások
+bioetanol
+biodiesel
+biomassza
+biogáz
+életciklus-értékelés
+
+Forrás: https://hu.wikipedia.org/wiki/Fenntarthat%C3%B3_fejl%C5%91d%C3%A9s
