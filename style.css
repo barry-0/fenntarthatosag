@@ -16,7 +16,23 @@ nav {
     color: white;
 }
 
-#headerkep {
-    display: block;
-    margin: auto;   
+header{
+    background-image: url(kepek/nagykep.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 550px;
+    max-width: 100%;
 }
+
+p{
+    font-size: 20px;
+}
+
+#cim{
+    text-align: center;
+    background-color: rgba(196, 171, 99, 0.4);
+    border-radius: 15px 50px;;
+    max-width: 40%;
+    margin: auto;
+}
+
