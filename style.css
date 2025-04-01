@@ -36,3 +36,8 @@ p{
     margin: auto;
 }
 
+.kiskep{
+    display: block;
+    margin: auto;
+    max-width: 75%;
+}
