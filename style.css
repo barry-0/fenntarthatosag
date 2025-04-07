@@ -53,6 +53,23 @@ ul {
     font-size: 1.1rem;
 }
 
+#alapelv{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#lab{
+    background-color: #30934d;
+    padding: 0.1rem 1.5rem;
+}
+
+#labszoveg{
+    padding-top: 15px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
 .navbar {
     background-color: #30934d;
     padding: 1rem 2rem;
@@ -115,12 +132,12 @@ ul {
     transition: 0.4s;
 }
 
-.buzix .bar1 {
+.xanimacio .bar1 {
     transform: translate(0, 11px) rotate(-45deg);
 }
   
-.buzix .bar2 {opacity: 0;}
+.xanimacio .bar2 {opacity: 0;}
   
-.buzix .bar3 {
+.xanimacio .bar3 {
     transform: translate(0, -11px) rotate(45deg);
 }
