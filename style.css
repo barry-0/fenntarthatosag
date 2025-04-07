@@ -26,6 +26,7 @@ header{
 
 p{
     font-size: 20px;
+    text-align: justify;
 }
 
 #cim{
@@ -40,4 +41,5 @@ p{
     display: block;
     margin: auto;
     max-width: 70%;
+    padding-top: 75px;
 }
